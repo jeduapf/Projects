@@ -1,0 +1,5 @@
+Coded in C for a micro controller of Freescale in a university project. 
+The idea is to use the accelerometer sensor to play notes of a music and in the moment we make one mistake in the 
+direction you should turn the device you lose points and the music cannot be heard anymore,
+but it continue to play in the background with one inaudible frequency. 
+The project was based in PWM for the frequencies played.
